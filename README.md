@@ -1,10 +1,10 @@
-##Gravity-canvas
+## Gravity-canvas
 
 Simple JavaScript canvas-based game
 
 Use SpaceBar or left-click to generate new Balls 
 
-###Controls:
+### Controls:
 - `=` or `Swipe Up` to add a gravity
 
 - `-` or `Swipe Down` to subtract a gravity
