@@ -29,7 +29,7 @@ function loop() {
 }
 
 function makeBalls() {
-    const count = 40;
+    const count = 150;
     let balls = [];
     for (let i = 0; i < count; i++) {
         let radius = (getRandInt(5, 20) * scale);
